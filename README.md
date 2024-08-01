@@ -1,5 +1,5 @@
 # Portfolio_Optimization_-_Price_Forecasting
-Portfolio Optimization using Mean Variance, Black Litterman, Monte Carlo, Risk Parity, Maximum Entropy, Grey Wolf, Particle Swarn optimzation techniques and price forecasting using ARIMA, LSTM model. 
+Portfolio Optimization using Mean Variance, Black Litterman, Monte Carlo, Risk Parity, Maximum Entropy, Grey Wolf, Particle Swarm optimzation techniques and price forecasting using ARIMA, LSTM model. 
 
 I prepared an extensive Python project focused on portfolio optimization and price forecasting. For portfolio optimization, I used a variety of techniques including Mean-Variance optimization, the Black-Litterman model, Monte Carlo simulation, Risk Parity, Maximum Entropy, Grey Wolf Optimizer, and Particle Swarm Optimization. Each of these methods offers a unique approach to determining the optimal asset allocation, balancing returns, and risks.
 
